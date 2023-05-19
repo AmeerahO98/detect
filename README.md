@@ -86,7 +86,7 @@ This Lab demonstrates setting up Analytic Rules to detect Security events in Sen
 <img src="https://i.imgur.com/MXkUknY.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- We create our rule query from our Sentinel Log we ran earlier and also set the set entities so Sentinel can give us the specific data we want for our       research into any incidents inciting our alert to trigger. The entities will help us paint a better picture as to what exactly is going on. 
+ We create our rule query from our Sentinel Log we ran earlier and also set the entities so Sentinel can give us the specific data we want for our       research into any incidents inciting our alert to trigger. The entities will help us paint a better picture as to what exactly is going on. 
 </p>
 
 <p>
